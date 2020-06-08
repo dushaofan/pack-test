@@ -9,6 +9,6 @@ class Service
 
     public function hello()
     {
-        return 'hello world!!';
+        return '66';
     }
 }
