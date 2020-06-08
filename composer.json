@@ -1,0 +1,19 @@
+{
+    "name": "pack/test",
+    "description": "pakc\b\bc\b\u001b[3~\b",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dufei",
+            "email": "dufei@gmai.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Pack\\Test\\": "src/"
+        }
+    },
+    "require": {}
+}
